@@ -1,0 +1,20 @@
+                    --------Alternative Meal---------
+
+-------------LUNCH----------
+Monday 		Soya chunks
+Tuesday		eggs
+Wednesday 	Fish
+Thursday 	kapenta
+Friday		fish
+Saturday	eggs
+sunday 		soya chunks
+
+
+-------------SUPPER----------
+Monday 		eggs
+Tuesday		kapenta
+Wednesday 	soya chunks
+Thursday 	eggs
+Friday		soya chunks
+Saturday	eggs
+sunday 		kapenta
